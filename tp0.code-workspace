@@ -12,6 +12,9 @@
 		},
 		{
 			"path": "server"
+		},
+		{
+			"path": "../so-commons-library"
 		}
 	]
 }
